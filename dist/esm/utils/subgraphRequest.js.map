@@ -1,0 +1,1 @@
+{"version":3,"file":"subgraphRequest.js","sourceRoot":"","sources":["../../../src/utils/subgraphRequest.ts"],"names":[],"mappings":"AAQA,MAAM,CAAC,OAAO,CAAC,KAAK,UAAU,eAAe,CAC3C,MAA2C,EAC3C,OAAoC;IAEpC,OAAO,MAAM,CAAC,KAAK,CAAgB,EAAE,GAAG,OAAO,EAAE,WAAW,EAAE,KAAK,EAAE,CAAC,CAAA;AACxE,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"getMarketName.js","sourceRoot":"","sources":["../../../src/utils/getMarketName.ts"],"names":[],"mappings":";;AAAA,SAAwB,aAAa,CAAC,WAAmB,EAAE,WAAmB;IAC5E,IAAI,UAAU,GAAG,WAAW,CAAA;IAC5B,IAAI,UAAU,CAAC,WAAW,EAAE,KAAK,MAAM,EAAE;QACvC,UAAU,GAAG,KAAK,CAAA;KACnB;IACD,OAAO,UAAG,UAAU,cAAI,WAAW,CAAE,CAAA;AACvC,CAAC;AAND,gCAMC"}
