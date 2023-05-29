@@ -1,0 +1,13 @@
+export declare function stdNormalCDF(x: number): number;
+export declare function stdNormal(x: number): number;
+export declare function d1(tAnnualised: number, vol: number, spot: number, strikePrice: number, rate: number): number;
+export declare function d2(tAnnualised: number, vol: number, spot: number, strikePrice: number, rate: number): number;
+export declare function PV(value: number, rate: number, tAnnualised: number): number;
+export declare function callPrice(tAnnualised: number, vol: number, spot: number, strikePrice: number, rate: number): number;
+export declare function putPrice(tAnnualised: number, vol: number, spot: number, strikePrice: number, rate: number): number;
+export declare function getBlackScholesPrice(tAnnualised: number, vol: number, spot: number, strikePrice: number, rate: number, isCall: boolean): number;
+export declare function getDelta(tAnnualised: number, vol: number, spot: number, strikePrice: number, rate: number, isCall: boolean): number;
+export declare function getVega(tAnnualised: number, vol: number, spot: number, strikePrice: number, rate: number): number;
+export declare function getGamma(tAnnualised: number, vol: number, spot: number, strikePrice: number, rate: number): number;
+export declare function getTheta(tAnnualized: number, vol: number, spot: number, strikePrice: number, rate: number, isCall: boolean): number;
+export declare function getRho(tAnnualised: number, vol: number, spot: number, strikePrice: number, rate: number, isCall: boolean): number;

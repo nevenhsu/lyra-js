@@ -1,0 +1,1 @@
+{"version":3,"file":"getIsLong.js","sourceRoot":"","sources":["../../../src/utils/getIsLong.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,UAAU,EAAE,MAAM,wBAAwB,CAAA;AAEnD,MAAM,CAAC,OAAO,UAAU,SAAS,CAAC,UAAsB;IACtD,OAAO,CAAC,UAAU,CAAC,QAAQ,EAAE,UAAU,CAAC,OAAO,CAAC,CAAC,QAAQ,CAAC,UAAU,CAAC,CAAA;AACvE,CAAC"}

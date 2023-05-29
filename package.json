@@ -27,9 +27,8 @@
     "lint": "eslint '**/*.ts'",
     "clean": "rimraf node_modules dist",
     "ts-prune": "ts-prune -p tsconfig.esm.json -i 'src/contracts/.*/typechain/|src/index.ts'",
-    "prepare": "yarn build",
-    "preversion": "yarn lint",
-    "version": "yarn format && git add -A src",
+    "preversion": "npm run lint",
+    "version": "npm run format && git add -A src",
     "postversion": "git push && git push --tags"
   },
   "dependencies": {
